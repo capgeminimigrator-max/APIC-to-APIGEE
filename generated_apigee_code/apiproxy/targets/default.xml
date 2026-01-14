@@ -1,5 +1,0 @@
-<TargetEndpoint name="default">
-<HTTPTargetConnection>
-  <URL>http://localhost:8080</URL>
-</HTTPTargetConnection>
-</TargetEndpoint>
